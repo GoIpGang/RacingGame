@@ -33,7 +33,6 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="README.MD" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="gui\" />
